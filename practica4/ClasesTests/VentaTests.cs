@@ -13,30 +13,19 @@ namespace Clases.Tests
     [TestClass()]
     public class VentaTests
     {
-        ClienteVirtual chris; ClientePersonal messi; ClienteEmpresa mati_sa; ClienteCooperativa icescoop;
-        ProductoFisico teclado; ProductoFisico mouse;
-        ProductoVirtual juego; ProductoVirtual programa;
-        Servicio limpieza; Servicio curso;
+        //clientes de ejemplo
+        ClienteVirtual chris = new ClienteVirtual(1, "Christian Maldonado", "Responsable Inscripto", "chris.ariel.maldonado@gmail.com","+54 9 3493 439701", "chrismaldona2");
+        ClientePersonal messi = new ClientePersonal(2, "Lionel Messi", "Responsable Inscripto", "lionelmessi@gmail.com", "+54 3493 213091", "España 231");
+        ClienteEmpresa mati_sa = new ClienteEmpresa(3, 30320651236, "Matias Maretto S.A.", "Monotributista ", "info@matisa.com.ar", "+54 3493 213502"); 
+        ClienteCooperativa icescoop = new ClienteCooperativa(4, 30301345236, "Cooperativa ICES", "Responsable Inscripto ", "coop@ices.com.ar", "+54 3493 123145");
 
-        [TestInitialize]
-        public void Ejemplos()
-        {
-
-            chris = new ClienteVirtual(1, "Christian Maldonado", "Responsable Inscripto", "chris.ariel.maldonado@gmail.com","+54 9 3493 439701", "chrismaldona2");
-            messi = new ClientePersonal(2, "Lionel Messi", "Responsable Inscripto", "lionelmessi@gmail.com", "+54 3493 213091", "España 231");
-            mati_sa = new ClienteEmpresa(3, 30320651236, "Matias Maretto S.A.", "Monotributista ", "info@matisa.com.ar", "+54 3493 213502");
-            icescoop = new ClienteCooperativa(4, 30301345236, "Cooperativa ICES", "Responsable Inscripto ", "coop@ices.com.ar", "+54 3493 123145");
-
-            teclado = new ProductoFisico(1, "Teclado Mecanico", "Corsair", 65000, 10);
-            mouse = new ProductoFisico(2, "Mouse", "Razer", 70000, 10);
-
-            juego = new ProductoVirtual(3, "God Of War", "Sony", 50000, 60000);
-            programa = new ProductoVirtual(4, "WinRAR", "win.rar GmbH", 5000, 3.2);
-
-            limpieza = new Servicio(5, "Limpieza Profesional a Domicilio", "Edwards Argentina", 10000, new DateTime(2025, 7, 1));
-            curso = new Servicio(6, "Curso Programación", "ICES", 150000, new DateTime(2025, 7, 15));
-        }
-
+        //productos de ejemplo
+        ProductoFisico teclado = new ProductoFisico(1, "Teclado Mecanico", "Corsair", 65000, 10); 
+        ProductoFisico mouse = new ProductoFisico(2, "Mouse", "Razer", 70000, 10);
+        ProductoVirtual juego = new ProductoVirtual(3, "God Of War", "Sony", 50000, 60000);
+        ProductoVirtual programa = new ProductoVirtual(4, "WinRAR", "win.rar GmbH", 5000, 3.2);
+        Servicio limpieza = new Servicio(5, "Limpieza Profesional a Domicilio", "Edwards Argentina", 10000, new DateTime(2025, 7, 1));
+        Servicio curso = new Servicio(6, "Curso Programación", "ICES", 150000, new DateTime(2025, 7, 15));
 
         [TestMethod()]
         public void crearVentaTest1()

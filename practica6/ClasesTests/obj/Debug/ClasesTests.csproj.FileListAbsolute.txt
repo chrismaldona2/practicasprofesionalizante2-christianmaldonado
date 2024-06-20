@@ -1,0 +1,10 @@
+C:\Users\Christian\Documents\GitHub\practicasprofesionalizante2-christianmaldonado\practica6\ClasesTests\bin\Debug\ClasesTests.dll
+C:\Users\Christian\Documents\GitHub\practicasprofesionalizante2-christianmaldonado\practica6\ClasesTests\bin\Debug\ClasesTests.pdb
+C:\Users\Christian\Documents\GitHub\practicasprofesionalizante2-christianmaldonado\practica6\ClasesTests\bin\Debug\Clases.dll
+C:\Users\Christian\Documents\GitHub\practicasprofesionalizante2-christianmaldonado\practica6\ClasesTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Christian\Documents\GitHub\practicasprofesionalizante2-christianmaldonado\practica6\ClasesTests\bin\Debug\Clases.pdb
+C:\Users\Christian\Documents\GitHub\practicasprofesionalizante2-christianmaldonado\practica6\ClasesTests\obj\Debug\ClasesTests.csproj.AssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\practicasprofesionalizante2-christianmaldonado\practica6\ClasesTests\obj\Debug\ClasesTests.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\practicasprofesionalizante2-christianmaldonado\practica6\ClasesTests\obj\Debug\ClasesTe.70A246B5.Up2Date
+C:\Users\Christian\Documents\GitHub\practicasprofesionalizante2-christianmaldonado\practica6\ClasesTests\obj\Debug\ClasesTests.dll
+C:\Users\Christian\Documents\GitHub\practicasprofesionalizante2-christianmaldonado\practica6\ClasesTests\obj\Debug\ClasesTests.pdb
