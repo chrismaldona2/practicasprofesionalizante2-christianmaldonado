@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Christian\\Documents\\GitHub\\practicasprofesionalizante2-christianmaldonado\\practica7-8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68833A93-08E0-4BBC-A039-9A10E1C0939E}|BackTests\\BackTests.csproj|c:\\users\\christian\\documents\\github\\practicasprofesionalizante2-christianmaldonado\\practica7-8\\backtests\\principaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68833A93-08E0-4BBC-A039-9A10E1C0939E}|BackTests\\BackTests.csproj|solutionrelative:backtests\\principaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 250,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrincipalTests.cs",
+              "DocumentMoniker": "C:\\Users\\Christian\\Documents\\GitHub\\practicasprofesionalizante2-christianmaldonado\\practica7-8\\BackTests\\PrincipalTests.cs",
+              "RelativeDocumentMoniker": "BackTests\\PrincipalTests.cs",
+              "ToolTip": "C:\\Users\\Christian\\Documents\\GitHub\\practicasprofesionalizante2-christianmaldonado\\practica7-8\\BackTests\\PrincipalTests.cs",
+              "RelativeToolTip": "BackTests\\PrincipalTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:30:14.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

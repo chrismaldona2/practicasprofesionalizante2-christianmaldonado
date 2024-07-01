@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{FAF13ABD-5CFC-4EDE-9403-F1D5D07B8AD2}|Clases\\Clases.csproj|solutionrelative:clases\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B84828A-CFB6-425F-9189-97D0F09DF0B0}|ClasesTests\\ClasesTests.csproj|c:\\users\\christian\\documents\\github\\practicasprofesionalizante2-christianmaldonado\\practica6\\clasestests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FAF13ABD-5CFC-4EDE-9403-F1D5D07B8AD2}|Clases\\Clases.csproj|c:\\users\\christian\\documents\\github\\practicasprofesionalizante2-christianmaldonado\\practica6\\clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF13ABD-5CFC-4EDE-9403-F1D5D07B8AD2}|Clases\\Clases.csproj|solutionrelative:clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B84828A-CFB6-425F-9189-97D0F09DF0B0}|ClasesTests\\ClasesTests.csproj|C:\\Users\\Christian\\Documents\\GitHub\\practicasprofesionalizante2-christianmaldonado\\practica6\\clasestests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B84828A-CFB6-425F-9189-97D0F09DF0B0}|ClasesTests\\ClasesTests.csproj|solutionrelative:clasestests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Christian\\Documents\\GitHub\\practicasprofesionalizante2-christianmaldonado\\practica6\\Clases\\Cliente.cs",
+              "RelativeDocumentMoniker": "Clases\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Christian\\Documents\\GitHub\\practicasprofesionalizante2-christianmaldonado\\practica6\\Clases\\Cliente.cs",
+              "RelativeToolTip": "Clases\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T08:41:42.362Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,20 +45,20 @@
               "RelativeDocumentMoniker": "Clases\\Libro.cs",
               "ToolTip": "C:\\Users\\Christian\\Documents\\GitHub\\practicasprofesionalizante2-christianmaldonado\\practica6\\Clases\\Libro.cs",
               "RelativeToolTip": "Clases\\Libro.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T05:22:25.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Tests.cs",
               "DocumentMoniker": "C:\\Users\\Christian\\Documents\\GitHub\\practicasprofesionalizante2-christianmaldonado\\practica6\\ClasesTests\\Tests.cs",
               "RelativeDocumentMoniker": "ClasesTests\\Tests.cs",
-              "ToolTip": "C:\\Users\\Christian\\Documents\\GitHub\\practicasprofesionalizante2-christianmaldonado\\practica6\\ClasesTests\\Tests.cs",
-              "RelativeToolTip": "ClasesTests\\Tests.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAuwFYAAAA2AAAA",
+              "ToolTip": "C:\\Users\\Christian\\Documents\\GitHub\\practicasprofesionalizante2-christianmaldonado\\practica6\\ClasesTests\\Tests.cs*",
+              "RelativeToolTip": "ClasesTests\\Tests.cs*",
+              "ViewState": "AQIAACwAAAAAAAAAAAAowBcAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T06:02:55.052Z",
               "EditorCaption": ""
